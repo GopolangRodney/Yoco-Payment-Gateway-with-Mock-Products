@@ -1,0 +1,5 @@
+{
+  "name": "Yoco Payment Gateway Demo",
+  "description": "A React web application demonstrating a product purchase flow using a simulated Yoco Payment Gateway integration for South Africa. It showcases a clean product display and a modal-based payment status feedback system.",
+  "requestFramePermissions": []
+}
